@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dcd2faf6eb853134897266b688f3a7e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgMusic: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - cant: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - dash: {instanceID: 0}
+  - death: {instanceID: 0}
+  - jump: {instanceID: 0}
+  - keyDash: {instanceID: 0}
+  - levelEnd: {instanceID: 0}
+  - soulIn: {instanceID: 0}
+  - start: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
